@@ -3,7 +3,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=George-Klimko&show_icons=true&theme=tokyonight&count_private=true" align="right" width="400" />
 
 ### 👨‍💻 Обо мне:
-- 🎓 Студент и разработчик из будущего (UTC+5).
 - 🛠 Специализируюсь на **React/Next.js** и **автоматизации процессов**.
 - 🐧 Фанат Linux и кастомных окружений.
 - ✍️ Пишу про IT в свой канал **HIB_live**.
