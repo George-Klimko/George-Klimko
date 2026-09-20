@@ -1,4 +1,4 @@
-🚀 Georgy Klimko | Full-stack & Automation Enthusiast
+🚀 Raw | Full-stack & Automation Enthusiast
  <img src="https://github-readme-stats.vercel.app/api?username=George-Klimko&show_icons=true&theme=tokyonight&count_private=true" align="right" width="400" />
 
 ### 👨‍💻 About me:
